@@ -1,13 +1,11 @@
 **Overview**<br/>
 This project was created using Java. It consists of an advanced Tic Tac Toe game. There are 2 game modes: Manual (vs another human player) and Automatic (vs PC). Moreover, the user will get to choose the dimensions of the board (width and height, which both represent the number of squares). After the game ends, the user will be asked if they want to replay their game lifetime from one point to another point (a replay of all the turns played from both users to show up on the screen for the user to analyze their game round if desired).
 
-![image](https://user-images.githubusercontent.com/42348385/129166189-5703725d-eb16-4055-88cd-c514a63b16dd.png)
-
+![image](https://user-images.githubusercontent.com/42348385/129166189-5703725d-eb16-4055-88cd-c514a63b16dd.png)<br/> 
 **Inputs**<br/> 
 The user will first have to choose the Game Mode, either ‘M’ or ‘A’. Then, they will be asked to enter the desired width(m), height (n) and number of symbols required to win (k) of the Tic Tac Toe game. Validations are used to ensure that the user does not input any illogical or invalid value.
 
-![image](https://user-images.githubusercontent.com/42348385/129165230-11cd8f51-f8df-4067-b401-2dd57abb89de.png)
-
+![image](https://user-images.githubusercontent.com/42348385/129165230-11cd8f51-f8df-4067-b401-2dd57abb89de.png)<br/>
 **Assumptions**<br/>
 * In Manual mode, first player uses ‘X’ Symbol, and second player uses ‘O’ symbol.
 * In Automatic mode, User uses ‘X’ symbol and Computer uses ‘O’ symbol.
