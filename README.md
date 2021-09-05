@@ -1,3 +1,4 @@
+# Customizable Tic Tac Toe Game
 **Overview**<br/>
 This project was created using Java. It consists of an advanced Tic Tac Toe game. There are 2 game modes: Manual (vs another human player) and Automatic (vs PC). Moreover, the user will get to choose the dimensions of the board (width and height, which both represent the number of squares). After the game ends, the user will be asked if they want to replay their game lifetime from one point to another point (a replay of all the turns played from both users to show up on the screen for the user to analyze their game round if desired).
 
